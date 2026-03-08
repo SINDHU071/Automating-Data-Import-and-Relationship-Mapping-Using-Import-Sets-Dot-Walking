@@ -1,0 +1,2 @@
+# Automating-Data-Import-and-Relationship-Mapping-Using-Import-Sets-Dot-Walking
+Automating Data Import and Relationship Mapping Using Import Sets &amp; Dot Walking is a ServiceNow project that demonstrates automated employee data import from external files using Import Sets and Transform Maps, along with dynamic relationship retrieval using Dot Walking and field customization through Dictionary Overrides.
